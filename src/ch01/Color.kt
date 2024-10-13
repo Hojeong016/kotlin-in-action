@@ -1,6 +1,6 @@
 package ch01
 
-//기본 enum
+//enum
 enum class Color {
     RED, ORANGE, YELLOW, GREEN, BLUE, INDIGO, VIOLET
 }

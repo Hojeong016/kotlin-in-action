@@ -2,7 +2,7 @@ package ch01
 
 //코드 없이 데이터만 저장하는 클래스
 // 변환기를 사용해보자
-//- 자바 → 코틀린 변환기 사용방법
+//자바 → 코틀린 변환기 사용방법
 //매뉴 > code > convert java file to kotlin
 /*public class PersonJava {
     private final String name;

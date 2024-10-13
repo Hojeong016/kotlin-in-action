@@ -3,7 +3,7 @@ package ch01
 fun main(args: Array<String>) {
     val name = if (args.size > 0) args[0] else "kotlin"
     println("hello  $name") // 세미콜론 x && 자바 라이브러리 함수를 간결하게 사용할 수 있도록 하는 래퍼 제공
-    println("{$name}님 반가워요 ") // 이런 형식을 더 지향하자
+    println("{$name}님 반가워요 ") // 이 형식을 더 지향하자
 
 
     println("hello,${if(args.size > 0) args[0] else "kotlin"}!") // 중괄호를 둘러싼 식안에 "" 사용해보기

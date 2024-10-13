@@ -1,7 +1,6 @@
 package ch01
 
 data class Person(val name: String, val age: Int? = null)
-//데이터 클래스? -- 생성자의 역할을 해주는걸까?
 
 //뒤에 있는 괄호안에는 무엇을 넣는 걸까?
 // int 옆에 물음표? : 코틀린의 타입 시스템

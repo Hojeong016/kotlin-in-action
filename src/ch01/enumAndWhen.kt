@@ -16,5 +16,5 @@ fun getMnemonic(color: Color2) =
         Color2.VIOLET -> "Vain"
     }
 
-// 각 끝에 break문을 사용하지 않아도 된다.
+//break문을 사용하지 않아도 된다.
 // 성공적으로 매치 되는 분기를 찾으면 swich는 그 분기를 실행한다.
